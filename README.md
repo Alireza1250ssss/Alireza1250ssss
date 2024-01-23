@@ -1,4 +1,5 @@
-- 👋 Hi, I’m |Alireza Salehi
+- 👋 Hi, I’m Alireza Salehi
+- 💻 I'm a PHP/Laravel developer
 - 👀 I’m interested in dealing with complex problems and introduing new ideas
 - 🌱 I’m love learning 
 - 📫 How to reach me : 
